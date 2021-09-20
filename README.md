@@ -44,4 +44,7 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 - **5_PredictiveModels_PCA-CWGAN.ipynb (reproduce results of Table 7 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using CWGAN (with different Imbalance Ratio using *4_WGAN_CWGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 
 
-*Note: this repo provides some depth behind the paper and I am not actively maintaining it.*
+
+<hr style="border:2px solid blue"> </hr>
+
+**Note: this repo provides some depth behind the paper and I am not actively maintaining it.**
