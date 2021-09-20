@@ -8,6 +8,8 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 - **2_PredictiveModels_NoPCA.ipynb**: predict failure (logistic regression, XGBoost, Random Forest) using Scania Dataset (including imputing the missing values without dimensionality reduction) 
 
+- **2_PredictiveModels_PCA.ipynb**: predict failure (logistic regression, XGBoost, Random Forest) using Scania Dataset (including imputing the missing values and dimensionality reduction using PCA) 
+
 
 
 
