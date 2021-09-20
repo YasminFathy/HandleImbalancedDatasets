@@ -21,7 +21,7 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 <hr style="border:2px solid blue"> </hr>
 
-***Case III: Predictoin with augmenting artificial faulty data samples using GAN/CGAN***
+***Case IV: Predictoin with augmenting artificial faulty data samples using GAN/CGAN***
 
 - **4_GAN_CGAN_Scania_PCA.ipynb**: to generate data using GAN/CAGN. This includes imputing the missing values and dimensionality reduction on original using PCA (PCs = 11).
 
