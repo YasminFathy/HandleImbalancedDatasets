@@ -47,4 +47,4 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 <hr style="border:2px solid blue"> </hr>
 
-**Note: this repo provides some depth behind the paper and I am not actively maintaining it.**
+***Note: this repo provides some depth behind the paper and I am not actively maintaining it.***
