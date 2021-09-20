@@ -25,9 +25,9 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 - **4_GAN_CGAN_Scania_PCA.ipynb**: to generate data using GAN/CAGN. This includes imputing the missing values and dimensionality reduction on original using PCA (PCs = 11).
 
-- **5_PredictiveModels_PCA-GAN.ipynb (reproduce results of Table 4 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using GAN (with different Imbalance Ratio using *4_GAN_CGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
+- **5_Optimise_PredictiveModels_PCA-GAN.ipynb(reproduce results of Table 4 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using GAN (with different Imbalance Ratio using *4_GAN_CGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 
-- **5_PredictiveModels_PCA-CGAN.ipynb (reproduce results of Table 6 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using CGAN (with different Imbalance Ratio using *4_GAN_CGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
+- **5_Optimise_PredictiveModels_PCA-CGAN.ipynb(reproduce results of Table 6 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using CGAN (with different Imbalance Ratio using *4_GAN_CGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 
 
 
@@ -39,9 +39,9 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 - **4_WGAN_CWGAN_Scania_PCA.ipynb**: to generate data using WGAN/WCAGN . This includes imputing the missing values and dimensionality reduction on original using PCA (PCs = 11).
 
-- **5_PredictiveModels_PCA-WGAN.ipynb (reproduce results of Table 5 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using WGAN (with different Imbalance Ratio using *4_WGAN_CWGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
+- **5_Optimise_PredictiveModels_PCA-WGAN.ipynbreproduce results of Table 5 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using WGAN (with different Imbalance Ratio using *4_WGAN_CWGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 
-- **5_PredictiveModels_PCA-CWGAN.ipynb (reproduce results of Table 7 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using CWGAN (with different Imbalance Ratio using *4_WGAN_CWGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
+- **5_Optimise_PredictiveModels_PCA-CWGAN.ipynb (reproduce results of Table 7 in the paper)**: performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using CWGAN (with different Imbalance Ratio using *4_WGAN_CWGAN_Scania_PCA.ipynb*) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 
 
 
