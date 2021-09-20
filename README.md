@@ -14,4 +14,4 @@ Y. Fathy, M. Jaber and A. Brintrup, "Learning With Imbalanced Data in Smart Manu
 
 - **3_PredictiveModels_PCA-SMOTE.ipynb (reproduce results of Table 3 in the paper)**: : performance of classifiers (logistic regression, XGBoost, Random Forest) with augmenting artificial faulty data samples obtained using SMOTE (with different Imbalance Ratio) to original data (this includes data imputation of original data to fill missing values and dimensionality reduction on original using PCA (PCs = 11)).
 - 
-*Note: this repo provides some depth behind the paper and I am not quiite actively maintaining it.*
+*Note: this repo provides some depth behind the paper and I am not actively maintaining it.*
